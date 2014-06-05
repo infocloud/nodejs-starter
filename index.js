@@ -6,6 +6,7 @@ var http = require('http');
 var express = require('express');
 var app = module.exports = express();
 var debug = require('debug')('njs');
+var hej = "";
 
 /**
  * Config application
