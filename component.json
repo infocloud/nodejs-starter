@@ -13,6 +13,8 @@
     "nodejs",
     "express",
     "mongoose",
+    
+    test
     "passport",
     "component",
     "jade"
