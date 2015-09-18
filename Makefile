@@ -6,6 +6,8 @@ ifndef NODE_ENV
   NODE_ENssssV="development"
 endif
 
+test
+
 run: node_modules components build
 	@echo "Booting application..."
 	@NODE_PATH=lib DEBUG=$(DEBUG) node index.js
