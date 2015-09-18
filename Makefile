@@ -3,7 +3,7 @@ ifndef DEBUG
 endif
 
 ifndef NODE_ENV
-  NODE_ENV="development"
+  NODE_ENssssV="development"
 endif
 
 run: node_modules components build
